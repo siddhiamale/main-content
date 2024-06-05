@@ -25,12 +25,6 @@ body{
     height: 450px;
     width:30%;
 }
-/*.product:hover img{
-    scale:1.1;
-}
-.product:hover{
-    box-shadow: 5px 15px 25px #eeeeee;
-}*/
 .main-image{
     background-image: url("puma christmas sale.png");
     height: 600px;
@@ -50,32 +44,3 @@ body{
     margin-bottom: 40px;
 }
 
-
-/*.all-product{
-    display: flex;
-}
-.product{
-    overflow: hidden;
-    background: rgb(231, 235, 238);
-    color: #21201e;
-    text-align: center;
-    width: 23%;
-    height: 430px;
-    padding: 2rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    border-radius: 1.2rem;
-    margin: 2rem;
-}<div class="box-img" style="background-image: url('Sneakers 1.avif');"></div>
-<div class="product-info">
-                <h5 class="product-title">PUMA Court Shatter Low Men's Sneakers</h5>
-                <p class="product-price">$320</p>
-                <a class="product-btn" href="#">Buy Now</a>
-            </div>
-.product:hover img{
-    scale:1.1;
-}
-.product:hover{
-    box-shadow: 5px 15px 25px #eeeeee;
-}*/
